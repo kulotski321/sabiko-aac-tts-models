@@ -1,6 +1,6 @@
 # SabiKo TTS Voice Models
 
-Downloadable voice models for the [SabiKo AAC app](https://github.com/sabiko-app/sabiko). These are [Piper](https://github.com/rhasspy/piper) ONNX models used with sherpa-onnx for offline neural text-to-speech.
+Downloadable voice models for the [SabiKo AAC app](https://www.sabikoaac.app/). These are [Piper](https://github.com/rhasspy/piper) ONNX models used with sherpa-onnx for offline neural text-to-speech.
 
 ## Models
 
