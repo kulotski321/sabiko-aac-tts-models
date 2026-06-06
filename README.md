@@ -48,6 +48,12 @@ Each zip contains the voice model files (`.onnx`, `.onnx.json`, `tokens.txt`) in
 | `vits-piper-pt_BR-cadu-medium` | Medium | 56 MB |
 | `vits-piper-pt_BR-jeff-medium` | Medium | 56 MB |
 
+### Vietnamese
+
+| Model | Quality | Size |
+|-------|---------|------|
+| `vits-piper-vi_VN-vais1000-medium` | Medium | 56 MB |
+
 ## Usage
 
 These models are downloaded on demand by the SabiKo app. The default voice (Amy / `en_US-amy-medium`) is bundled with the app.
